@@ -1,0 +1,16 @@
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventory.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventory.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\Chapter1.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\Chapter1.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\CharacterCreation.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\CharacterCreation.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventorytest.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventorytest.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventory.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventory.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\Chapter1.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\Chapter1.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\CharacterCreation.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\CharacterCreation.js.map
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventorytest.js
+C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\Scripts\app\inventorytest.js.map
