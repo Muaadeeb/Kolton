@@ -9,9 +9,12 @@
 <body>
     <h1 style="text-align:center">Dark Souls III</h1>
     <h2 style="text-align:center">What is your name?</h2>
-    <input style="margin-left:590px" type="text" placeholder="Insert Name Here" maxlength="35" id="username" onkeydown="if (event.keyCode == 13)getName()" />
-    <br />
-    <br />
-    <button style="margin-left:650px;" onclick="getName()">Enter</button>
+<!--<input style="margin-left:590px" type="text" placeholder="Insert Name Here" maxlength="35" id="username" onkeydown="if (event.keyCode == 13)getName()" />-->
+<div style="text-align: center">
+    <input type="text" placeholder="Insert Name Here" maxlength="35" id="username" onkeydown="if (event.keyCode == 13) getName()"/>
+    <br/>
+    <button style="margin-top: 15px" onclick="getName()">Enter</button>
+</div>
+
 </body>
 </html>

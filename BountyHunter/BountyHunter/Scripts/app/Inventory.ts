@@ -49,26 +49,25 @@ let item = (itemName, itemDesc, minDam, maxDam) => {
 
 
 let createInventory = () => {
-    sessionStorage.setItem("Inventory", "temp")
+    // initialize the inventory.
+    //let inventoryItem = { item: '', description: '' };
+    let inventoryItem = [ { item: '1', description: '1_1' }, {item: '2', description: '2_2'}];
+    sessionStorage.setItem("Inventory", JSON.stringify(inventoryItem));
 }
 
-let addInventoryItem = (newItem, description) => {
-    let tempInventory = sessionStorage.getItem("Inventory")
+let addInventoryItem = (item, description) => {
+    let inventory = JSON.parse(sessionStorage.getItem("Inventory"));
 
-    if (tempInventory !== "temp") {
-        tempInventory = JSON.parse(sessionStorage.getItem("Inventory"))
-    }
-
-    if (tempInventory.length < 10) {
-        let newInventory = new Array
-        let newItemDescription = [newItem, description]
-        newInventory.push(newItemDescription, tempInventory)
-        if (tempInventory === "temp") {
-            newInventory.pop()
+    if (inventory.length < 10) {
+        let newInventory = new Array;
+        let newItem = [item, description];
+        newInventory.push(newItem, inventory);
+        if (inventory === "temp") {
+            newInventory.pop();
         }
-        sessionStorage.setItem("Inventory", JSON.stringify(newInventory))
+        sessionStorage.setItem("Inventory", JSON.stringify(newInventory));
     } else {
-        alert("Your inventory is full!")
+        alert("Your inventory is full!");
     }
 
 }

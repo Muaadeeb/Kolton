@@ -1,6 +1,6 @@
 ﻿/// <reference path="inventory.ts" />
 
-let getName = function () {
+let getName = () => {
     let name = document.getElementById("username")["value"];
     if (name.length > 0) {
         sessionStorage.setItem("userName", document.getElementById("username")["value"]);
@@ -10,26 +10,26 @@ let getName = function () {
     }
 }
 
-let getClass = function (charClass) {
+let getClass = charClass => {
     sessionStorage.setItem("userClass", charClass);
     switch (charClass) {
-        case "knight":
-            sessionStorage.setItem("userHP", "682");
-            break;
-        case "sorcerer":
-            sessionStorage.setItem("userHP", "511");
-            break;
-        case "pyromancer":
-            sessionStorage.setItem("userHP", "530");
-            break;
-        case "deprived":
-            sessionStorage.setItem("userHP", "572");
-            break;
+    case "knight":
+        sessionStorage.setItem("userHP", "682");
+        break;
+    case "sorcerer":
+        sessionStorage.setItem("userHP", "511");
+        break;
+    case "pyromancer":
+        sessionStorage.setItem("userHP", "530");
+        break;
+    case "deprived":
+        sessionStorage.setItem("userHP", "572");
+        break;
     }
     window.location.href = "Decision3.html";
 }
 
-let getBurialGift = function (userGift, description) {
+let getBurialGift = (userGift, description) => {
     if (userGift === "life ring") {
         let currHp = JSON.parse(sessionStorage.getItem("userHP"));
         let intHp = parseInt(currHp);
@@ -37,8 +37,8 @@ let getBurialGift = function (userGift, description) {
         currHp = intHp.toString();
         sessionStorage.setItem("userHP", currHp);
     }
-    createInventory()
-    addInventoryItem(userGift, description)
+    createInventory();
+    addInventoryItem(userGift, description);
 
 
     window.location.href = "Decision4.html";
