@@ -37,7 +37,7 @@ let getBurialGift = (userGift, description) => {
         currHp = intHp.toString();
         sessionStorage.setItem("userHP", currHp);
     }
-    createInventory();
+    
     addInventoryItem(userGift, description);
 
 
