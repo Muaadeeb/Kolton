@@ -32,3 +32,37 @@ C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\Bount
 C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\obj\Debug\BountyHunter.dll
 C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\obj\Debug\BountyHunter.pdb
 C:\Users\kolto\OneDrive\Documents\Visual Studio 2017\Projects\BountyHunter\BountyHunter\obj\Debug\BountyHunter.csprojResolveAssemblyReference.cache
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\csc.exe
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\csc.exe.config
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\csc.rsp
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\csi.exe
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\csi.rsp
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.AppContext.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.Collections.Immutable.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.IO.FileSystem.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\System.Reflection.Metadata.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\vbc.exe
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\vbc.exe.config
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\vbc.rsp
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\VBCSCompiler.exe
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\roslyn\VBCSCompiler.exe.config
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\BountyHunter.dll.config
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\BountyHunter.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\BountyHunter.pdb
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\obj\Debug\BountyHunter.csprojResolveAssemblyReference.cache
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\obj\Debug\BountyHunter.dll
+C:\MastersWeb\Kolton\Kolton\BountyHunter\BountyHunter\obj\Debug\BountyHunter.pdb

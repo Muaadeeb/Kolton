@@ -12,13 +12,14 @@ let inventoryItem = (itemName, itemDesc, minDam, maxDam) => {
 
 
 let addInventoryItem = (item, description) => {
+    let inventory;
     if (sessionStorage.getItem("Inventory") !== null) {
-        let inventory = sessionStorage.getItem("Inventory");
+        inventory = JSON.parse(sessionStorage.getItem("Inventory"));
 
+						
         if (inventory.length < 10) {
-            let newInventory = new Array;
             let newItem = [item, description];
-            newInventory.push(newItem, inventory);
+            inventory.push(newItem);
         } else {
             alert("Your inventory is full!");
         }
@@ -28,4 +29,6 @@ let addInventoryItem = (item, description) => {
         newInventory.push(newItem);
         sessionStorage.setItem("Inventory", JSON.stringify(newInventory));
     }
+	sessionStorage.setItem("Inventory", JSON.stringify(inventory));
 }
+

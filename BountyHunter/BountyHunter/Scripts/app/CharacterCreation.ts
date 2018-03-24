@@ -30,6 +30,8 @@ let getClass = charClass => {
 }
 
 let getBurialGift = (userGift, description) => {
+	let emptyInventory = [];
+	sessionStorage.setItem("Inventory", JSON.stringify(emptyInventory));
     if (userGift === "life ring") {
         let currHp = JSON.parse(sessionStorage.getItem("userHP"));
         let intHp = parseInt(currHp);
